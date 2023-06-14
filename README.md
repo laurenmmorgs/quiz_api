@@ -1,6 +1,8 @@
 # Api Documentation 
 
-ROOT URL: https://17d0-2601-600-9000-3da0-295d-5a87-821b-ca4d.ngrok-free.app
+ROOT URL: https://7620-2601-600-9000-3da0-295d-5a87-821b-ca4d.ngrok-free.app
+
+
 - To see questions: 
    - Go to "/quiz": This allows you to see the questions and answers 
    
